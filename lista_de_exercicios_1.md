@@ -1,0 +1,27 @@
+# Questões geradas com auxílio de I.A. via ChatGPT
+
+O que é a Internet e como ela se originou?
+Defina o que é uma rede.
+Explique o conceito de "rede de redes" em relação à Internet.
+Qual foi o papel do Departamento de Defesa dos Estados Unidos no desenvolvimento da Internet?
+Como a Internet evoluiu desde a sua criação na década de 1960?
+Quais são os principais usos da Internet hoje?
+Descreva, em termos gerais, como a Internet funciona.
+O que é um pacote de dados na Internet?
+Qual é a função de um roteador na Internet?
+Explique o papel do Protocolo de Internet (IP) na comunicação pela Internet.
+Qual é a função do Protocolo de Controle de Transmissão (TCP)?
+Quais são os benefícios de usar protocolos padronizados na Internet?
+O que é um endereço IP e como ele é usado na Internet?
+Defina o que é um nome de domínio.
+Como o Sistema de Nomes de Domínio (DNS) funciona?
+Qual é a diferença entre HTTP e HTTPS?
+O que são SSL e TLS, e como eles contribuem para a segurança na Internet?
+Explique o processo de roteamento de pacotes de dados na Internet.
+Por que a confiabilidade e a ordem dos pacotes são importantes na comunicação TCP?
+O que são protocolos de camada de aplicação e como eles se diferenciam dos protocolos de camada de transporte?
+Dê exemplos de outros protocolos além de IP, TCP, e DNS que são usados na Internet.
+Como a segurança é implementada na comunicação via HTTPS?
+Qual é a importância dos endereços IP na comunicação pela Internet?
+Descreva um cenário em que o DNS é usado para traduzir um nome de domínio em um endereço IP.
+Por que é importante para um desenvolvedor ter um conhecimento sólido sobre como a Internet funciona?

@@ -1,4 +1,5 @@
 # Questões geradas com auxílio de I.A. via ChatGPT
+## A partir do conteúdo do seguinte artigo [how-does-internet-work](https://cs.fyi/guide/how-does-internet-work)
 
 - O que é a Internet e como ela se originou?
 - Defina o que é uma rede.

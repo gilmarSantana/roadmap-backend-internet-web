@@ -19,8 +19,9 @@
 - O que é um pacote de dados na Internet?
   ### Um pacote de dados, são informações/dados que um host envia para outro host através da rede/internet
 
-  
 - Qual é a função de um roteador na Internet?
+  ### Um roteador na internet atua no encaminhamento dos pacotes de dados entre os roteadores no caminho entre um host e outro ou entre um cliente e um servidor.
+  
 - Explique o papel do Protocolo de Internet (IP) na comunicação pela Internet.
 - Qual é a função do Protocolo de Controle de Transmissão (TCP)?
 - Quais são os benefícios de usar protocolos padronizados na Internet?
